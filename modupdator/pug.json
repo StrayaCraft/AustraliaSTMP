@@ -1,0 +1,94 @@
+[
+	{
+		"id": "677000", # Minecraft Mod Updater
+		"source": "curseforge"
+	},
+	{
+		"id": "349240", # Carpet Extra
+		"source": "curseforge"
+	},
+	{
+		"id": "306612", # Fabric API
+		"source": "curseforge"
+	},
+	{
+		"id": "360438", # Lithium
+		"source": "curseforge"
+	},
+	{
+		"id": "372124", # Phosphor
+		"source": "curseforge"
+	},
+	{
+		"id": "525116", # Syncmatica
+		"source": "curseforge"
+	},
+	{
+		"id": "381257", # CompleteConfig
+		"source": "curseforge"
+	},
+	{
+		"id": "508933", # Distant Horizons
+		"source": "curseforge"
+	},
+	{
+		"id": "389848", # Entity Outliner
+		"source": "curseforge"
+	},
+	{
+		"id": "455508", # Iris Shaders
+		"source": "curseforge"
+	},
+	{
+		"id": "242064", # Item Scroller
+		"source": "curseforge"
+	},
+	{
+		"id": "308892", # Litematica
+		"source": "curseforge"
+	},
+	{
+		"id": "303119", # MaLiLib
+		"source": "curseforge"
+	},
+	{
+		"id": "244260", # MiniHUD
+		"source": "curseforge"
+	},
+	{
+		"id": "308702", # Mod Menu
+		"source": "curseforge"
+	},
+	{
+		"id": "317514", # Mouse Wheelie 
+		"source": "curseforge"
+	},
+	{
+		"id": "304029", # Player Highlighter 
+		"source": "curseforge"
+	},
+	{
+		"id": "547828", # Playtime Meter 
+		"source": "curseforge"
+	},
+	{
+		"id": "Nv2fQJo5", # ReplayMod  
+		"source": "modrinth"
+	},
+	{
+		"id": "394468", # Sodium 
+		"source": "curseforge"
+	},
+	{
+		"id": "297344", # Tweakeroo 
+		"source": "curseforge"
+	},
+	{
+		"id": "225608", # WorldEdit
+		"source": "curseforge"
+	},
+	{
+		"id": "349239", # Carpet
+		"source": "curseforge"
+	}
+]
