@@ -20,8 +20,9 @@
 		"source": "curseforge"
 	},
 	{
-		"id": "525116", # Syncmatica
-		"source": "curseforge"
+		"id": "syncmatica",
+		"url": "https://github.com/StrayaCraft/AustraliaSTMP/raw/main/modupdator/syncmatica-1.18.2-0.3.2.jar",
+		"sha1": "d55694a35d26b638aa3682a7608e7b3c372fd066"
 	},
 	{
 		"id": "381257", # CompleteConfig
